@@ -1,0 +1,6 @@
+name = PD Roll Racing
+author = Sasha
+description = Yet Another Racing Game
+bundleID = com.sasha.pdroll
+version = 1
+buildNumber = 1
